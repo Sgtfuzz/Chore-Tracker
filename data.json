@@ -1,0 +1,14 @@
+{
+    "2025-06-09": {
+        "chore": {
+            "name": "Vacuum",
+            "completed": true
+        },
+        "activities": {
+            "read": true,
+            "math": false,
+            "good deed": false,
+            "reward total": 5
+        }
+    }
+}
